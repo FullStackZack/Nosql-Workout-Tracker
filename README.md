@@ -23,7 +23,7 @@ This app uses a Mongo database & Mongoose schema. The routes are handled using E
 None
 
 ## License
-MIT
+Unlicensed
 
 ## Tests
 
