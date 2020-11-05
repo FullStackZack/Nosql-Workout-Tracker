@@ -1,4 +1,4 @@
-var mongoose = require("mongoose");
+const mongoose = require("mongoose");
 const opts = { toJSON: { virtuals: true } };
 
 var Schema = mongoose.Schema;
